@@ -1,0 +1,33 @@
+_repo: Memoirs-of-My-Dead-Life_7789
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Rhone, Lady
+    - Moore, George Augustus
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Intellectuals -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+tableOfContents: Apologia pro scriptis meis -- Spring in London -- Flowering Normandy
+  -- A waitress -- The end of Marie Pellegrin -- La Butte -- Spent loves -- Ninon's
+  table d'hôte -- The lovers of Orelay -- In the Luxembourg gardens -- A remembrance
+  -- Bring in the lamp -- Sunday evening in London -- Resurgam.
+title: Memoirs of My Dead Life
+url: http://www.gutenberg.org/ebooks/7789
